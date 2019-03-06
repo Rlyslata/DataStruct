@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+e:\源代码文件\atm\form1\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\源代码文件\atm\form1\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\源代码文件\atm\form1\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  form1.cpp
+e:\源代码文件\atm\form1\form1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\源代码文件\atm\form1\resource.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  form1.vcxproj -> E:\源代码文件\ATM\Debug\form1.exe
+  form1.vcxproj -> E:\源代码文件\ATM\Debug\form1.pdb (Partial PDB)

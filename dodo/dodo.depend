@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1495077563 source:c:\users\acer\desktop\dodo\main.cpp
+	<iostream>
+	<cstring>
+	"../nkkk.h"
+
+1495112146 c:\users\acer\desktop\nkkk.h
+	<iostream>
+	<cstring>
+
+1496669343 source:e:\源代码文件\dodo\main.cpp
+	<iostream>
+	"../nkkk.h"
+
+1496669714 e:\源代码文件\nkkk.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+

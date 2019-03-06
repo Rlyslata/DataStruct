@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1501906141 source:e:\源代码文件\doubelink\main.cpp
+	<iostream>
+	<algorithm>
+	"Doublelink.h"
+	"Doublelink.h"
+
+1501904890 e:\源代码文件\doubelink\doublelink.h
+	<iostream>
+	<iostream>
+
